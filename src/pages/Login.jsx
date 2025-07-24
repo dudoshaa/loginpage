@@ -54,7 +54,7 @@ function Login() {
           </div>
           <div className="flex gap-3">
             <span>Don't have an account?</span>
-            <Link to="/signup" className="font-bold text-[#2d4a53]">
+            <Link to="/signup" className="font-bold text-[#0d1f23]">
               Sign Up
             </Link>
           </div>

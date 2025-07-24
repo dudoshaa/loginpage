@@ -2,7 +2,7 @@ import React from 'react'
 
 function Profile() {
   return (
-    <section className="bg-white">
+    <section className="">
       <div className='align-elements'>Profile</div>
     </section>
   )

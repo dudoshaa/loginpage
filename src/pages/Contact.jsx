@@ -2,7 +2,7 @@ import React from 'react'
 
 function Contact() {
   return (
-    <section className="bg-white">
+    <section className="">
         <div className='align-elements'>Contact</div>
     </section>
   )
