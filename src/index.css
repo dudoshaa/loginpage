@@ -60,5 +60,5 @@ body {
     @apply mx-24
 }
 .active{
-  @apply border-b-2
+  @apply border-b-2 bg-[#00000052]
 }
